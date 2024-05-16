@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👋🏾
+Hi, there. I'm Taqwa -- a lover of human and computer languages.
+
+- 🌱 I’m currently learning: [Gridsome](https://gridsome.org/docs/), to rebuild my personal site with.
+- 📚 Currently reading: Hyperion -- this book has been on my to-read list for years. Finally getting to it.🧍🏾‍♀️
+- 💬 Ask me about: Early 2000's Arabic pop songs.
 
 <!--
 **TaqwaR/TaqwaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
