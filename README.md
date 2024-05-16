@@ -2,7 +2,7 @@
 Hi, there. I'm Taqwa -- a lover of human and computer languages.
 
 - 🌱 I’m currently learning: [Gridsome](https://gridsome.org/docs/), to rebuild my personal site with.
-- 📚 Currently reading: Hyperion -- this book has been on my to-read list for years. Finally getting to it.🧍🏾‍♀️
+- 📚 Currently reading: [Hyperion](https://www.goodreads.com/en/book/show/77566) -- this book has been on my to-read list for years. Finally getting to it.🧍🏾‍♀️
 - 💬 Ask me about: Early 2000's Arabic pop songs.
 
 <!--
